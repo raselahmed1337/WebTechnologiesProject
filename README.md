@@ -1,2 +1,2 @@
 # WebTechnologiesProject
-Hospital Management System ( Medicine Store )
+Hospital Management System ( Medicine Store part)
